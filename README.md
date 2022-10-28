@@ -1,9 +1,9 @@
 ### Olá, sou o Natã Almeida Gago, seja bem-vindo ao meu perfil <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <div align="center">
-  <a href="https://github.com/NataGago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NataGago&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataGago&layout=compact&theme=github_dark"/>
+  <a href="https://github.com/NataGagoGT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NataGagoGT&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataGagoGT&layout=compact&theme=github_dark"/>
  </div>
   
 <div style="display: inline_block"><br>
@@ -25,7 +25,7 @@
 </div>
   
 <!--
-**NataGago/NataGago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NataGagoGT/NataGagoGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
